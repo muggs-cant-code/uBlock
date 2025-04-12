@@ -5,8 +5,8 @@
 
 ! (1/11) YouTube 4 Videos Per Row Fix (Home and Channel Pages) / YouTube Fix & Customization
 youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)
-youtube.com##ytd-rich-grid-renderer, html:style(--ytd-rich-grid-items-per-row: 4 !important;)
-youtube.com##ytd-rich-grid-renderer, html:style(--ytd-rich-grid-posts-per-row: 4 !important;)
+youtube.com##ytd-rich-grid-renderer, html:style(--ytd-rich-grid-items-per-row: 5 !important;)
+youtube.com##ytd-rich-grid-renderer, html:style(--ytd-rich-grid-posts-per-row: 5 !important;)
 ! (2/11) YouTube Home Short Section 7 Videos Per Row Fix / YouTube Fix & Customization
 youtube.com##ytd-rich-grid-renderer, html:style(--ytd-rich-grid-slim-items-per-row: 7 !important;)
 youtube.com##ytd-rich-shelf-renderer, html:style(--ytd-rich-grid-items-per-row: 7 !important;)
