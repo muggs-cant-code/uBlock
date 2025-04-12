@@ -1,7 +1,7 @@
 ! Title: Filtros uBlock YouTube // @thinkiiCS
 ! Last modified: %timestamp%
 ! Description: |
-! Changes how the site looks
+! Changes how the site looks!
 
 ! (1/11) YouTube 4 Videos Per Row Fix (Home and Channel Pages) / YouTube Fix & Customization
 youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)
