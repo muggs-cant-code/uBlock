@@ -1,3 +1,8 @@
+! Title: Filtros uBlock YouTube // @thinkiiCS
+! Last modified: %timestamp%
+! Description: |
+! Changes how the site looks!
+
 ! YouTube Premium Logo
 youtube.com##svg[id^="yt-logo"] > g:nth-child(2)
 youtube.com##svg[id^="yt-ringo"] > g:nth-child(2)
