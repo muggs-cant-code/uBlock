@@ -1,0 +1,7 @@
+! YouTube Premium Logo
+youtube.com##svg[id^="yt-logo"] > g:nth-child(2)
+youtube.com##svg[id^="yt-ringo"] > g:nth-child(2)
+youtube.com##yt-icon.ytd-logo:style(width: 100% !important; margin-left: -10px !important;)
+youtube.com###logo-icon::after:style(content: "@thinkiiCS"; font-size: 20px; margin-left: -70px; letter-spacing: -1px;)
+youtube.com###country-code.ytd-topbar-logo-renderer:style(margin-left: 12px !important;)
+!youtube.com###country-codeyoutube.com##svg[id^="yt-ringo"]youtube.com##svg[id^="yt-logo"]youtube.com##svg[id^="yt-ringo"]
