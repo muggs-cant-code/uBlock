@@ -51,3 +51,6 @@ youtube.com##ytd-video-renderer[use-bigger-thumbs][bigger-thumbs-style="BIG"] yt
 
 ! YouTube Horizontal Scrollbar Fix / YouTube Fix & Customization
 youtube.com##body, ytd-app[scrolling]:style(overflow-x: hidden !important;)
+
+! Remove YouTube AI Summary underneath videos
+youtube.com###expandable-metadata > .ytd-watch-flexy.style-scope
