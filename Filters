@@ -54,3 +54,6 @@ youtube.com##body, ytd-app[scrolling]:style(overflow-x: hidden !important;)
 
 ! Remove YouTube AI Summary underneath videos
 youtube.com###expandable-metadata > .ytd-watch-flexy.style-scope
+
+! Remove "People mentioned" in YouTube description
+youtube.com##yt-video-attributes-section-view-model
